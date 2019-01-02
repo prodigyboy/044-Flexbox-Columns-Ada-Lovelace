@@ -1,0 +1,40 @@
+.container {
+        display: flex;
+}
+
+.left {
+   width: 250%;
+}
+
+.title {
+	display: flex;
+	justify-content: center; 
+}
+
+.right {
+	display: flex;
+	justify-content: center; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+img {
+    max-height: 200px;
+}
